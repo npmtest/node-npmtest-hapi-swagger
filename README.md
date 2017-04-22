@@ -112,7 +112,8 @@
         "test-cov-coveralls": "lab -r lcov | ./node_modules/.bin/coveralls",
         "test-cov-html": "lab -r html -o coverage.html"
     },
-    "version": "7.7.0"
+    "version": "7.7.0",
+    "bin": {}
 }
 ```
 
